@@ -1,0 +1,35 @@
+.container {
+    text-align:left;
+}
+#stadyum-linki:hover {
+    background-color: white;
+    
+}
+.container .jumbotron  .a {
+    color: white;
+}
+body {
+    margin-left:150px;
+    margin-top: 50px;
+    background-color: rgb(182, 172, 172);
+}
+.header h1 {
+    text-align: center;
+    margin-right: 120px;
+}
+ul{
+    list-style-type: none;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(243, 233, 233);
+}
+.card {
+    background-color: black;
+}
+#hakkımızda {
+    background-color: rgb(84, 68, 68);
+}
+#hakkımızda ul li {
+    background-color: rgb(32, 32, 32);
+}
